@@ -112,14 +112,14 @@ hr{
 
 @media screen and (max-width: 768px)  {
     .container{
-        width: 55%;
+        width: 60%;
         height: 85%;
     }
 }
 
 @media screen and (max-width: 400px) {
     .container{
-        width: 90%;
+        width: 95%;
         height: 85%;
     }
 
